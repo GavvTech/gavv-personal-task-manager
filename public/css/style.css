@@ -55,12 +55,13 @@ th {
     background: #1e293b;
     color: white;
     padding: 14px;
-    text-align: left;
+    text-align: center;
 }
 
 td {
     padding: 14px;
     border-bottom: 1px solid #e5e7eb;
+    text-align: center;
 }
 
 tr:hover {
@@ -129,7 +130,7 @@ select:focus {
 }
 
 .save-button {
-    background: #16a34a;
+    background: #2563eb;
     color: white;
     padding: 11px 20px;
     border: none;
@@ -139,7 +140,7 @@ select:focus {
 }
 
 .save-button:hover {
-    background: #15803d;
+    background: #2563eb;
 }
 
 .back-button {
@@ -172,4 +173,15 @@ select:focus {
 .add-task-container {
     text-align: center;
     margin-top: 25px;
+}
+
+.save-button {
+    display: block;
+    margin: 0 auto;
+}
+
+.back-button {
+    display: block;
+    width: fit-content;
+    margin: 15px auto 0;
 }

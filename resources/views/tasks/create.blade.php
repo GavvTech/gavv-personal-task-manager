@@ -9,7 +9,7 @@
 
 <div class="container">
 
-    <h1>Add New Task</h1>
+    <h1><center>Add New Task</center></h1>
 
     @if($errors->any())
         <div class="error-message">

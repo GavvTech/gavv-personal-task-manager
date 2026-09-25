@@ -57,3 +57,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Info
+Project Code: WST21-PM-2026-SF
+Student Name: Quirong, Edwin Gabriel P.
+Course & Year: BSIT 2 - SEC 5
+Database Used: MySQL
+Features:
+- Add Task
+- View Tasks
+- Edit Task
+- Delete Task
+- Update Status

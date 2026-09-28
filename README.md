@@ -18,8 +18,11 @@ MySQL
 - Update Status
 
 ## Add Task
+Before Adding Task
 <img width="1917" height="896" alt="1" src="https://github.com/user-attachments/assets/57b6becb-5a5e-4bf1-85db-5d5aa4ed36c8" />
-
+During Adding Task
 <img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/b551fa6a-9ca6-40f0-ade3-4b8c4fa1d983" />
+After Adding Task
+<img width="1917" height="886" alt="image" src="https://github.com/user-attachments/assets/ce85d8a6-5b34-4805-8e02-6b734042f81a" />
 
 ## View Tasks / Edit Task

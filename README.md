@@ -1,16 +1,16 @@
-#Project Code
+##Project Code
 WST21-PM-2026-SF
 
-#Student Name
+##Student Name
 QUIRONG, EDWIN GABRIEL P.
 
-#Course & Year
+##Course & Year
 BSIT 2 — SEC 5
 
-#Database Used
+##Database Used
 MySQL
 
-#Features
+##Features
 - Add Task
 - View Tasks
 - Edit Task
